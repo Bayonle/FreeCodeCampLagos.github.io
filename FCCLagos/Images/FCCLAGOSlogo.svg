@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="Layer_1" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" sodipodi:docname="freeCodeCamp.svg" inkscape:version="0.48.5 r10040"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="621.9px" height="123px"
+	 viewBox="247.9 205.6 621.9 123" style="enable-background:new 247.9 205.6 621.9 123;" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Copyright \(c\) 2015 by Radomir Tinkov. All rights reserved. -->
+<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="QanelasSoftDEMO-ExtraBold" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="500" d="M410,800l-317,0l0,-1000l317,0M333,733l0,-33l-66,0l0,-37l66,0l0,-33l-166,0l0,33l66,0l0,37l-65,0l0,33M267,604l0,-70l66,0l0,-34l-166,0l0,104M233,570l-33,0l0,-36l33,0M333,473l0,-33l-66,0l0,-70l-100,0l0,33l66,0l0,37l-66,0l0,33M333,413l0,-100l-166,0l0,34l133,0l0,66M333,291l0,-113l-166,0l0,113l33,0l0,-80l100,0l0,47l-33,0l0,-23l-34,0l0,56M333,118l0,-113l-166,0l0,113M300,85l-100,0l0,-47l100,0M333,-18l0,-33l-32,0l-70,-47l102,0l0,-33l-166,0l0,33l70,47l-70,0l0,33z"/>
+<glyph unicode="C" horiz-adv-x="747" d="M394,-14C555,-14 692,88 731,234C735,250 726,260 709,260l-118,0C577,260 569,253 563,240C535,179 470,142 394,142C270,142 190,225 190,350C190,475 270,558 394,558C470,558 535,521 563,460C569,447 577,440 591,440l118,0C726,440 735,451 731,468C690,614 554,714 394,714C183,714 30,556 30,350C30,144 183,-14 394,-14z"/>
+<glyph unicode="F" horiz-adv-x="505" d="M450,546C466,546 475,555 475,571l0,104C475,691 466,700 450,700l-230,0l-135,0C69,700 60,691 60,675l0,-650C60,9 69,0 85,0l110,0C211,0 220,9 220,25l0,222l225,0C461,247 470,256 470,272l0,104C470,392 461,401 445,401l-225,0l0,145z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright \(c\) 2015 by Radomir Tinkov. All rights reserved. -->
+<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="QanelasSoftDEMO-UltraLight" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="500" d="M410,800l-317,0l0,-1000l317,0M333,733l0,-33l-66,0l0,-37l66,0l0,-33l-166,0l0,33l66,0l0,37l-65,0l0,33M267,604l0,-70l66,0l0,-34l-166,0l0,104M233,570l-33,0l0,-36l33,0M333,473l0,-33l-66,0l0,-70l-100,0l0,33l66,0l0,37l-66,0l0,33M333,413l0,-100l-166,0l0,34l133,0l0,66M333,291l0,-113l-166,0l0,113l33,0l0,-80l100,0l0,47l-33,0l0,-23l-34,0l0,56M333,118l0,-113l-166,0l0,113M300,85l-100,0l0,-47l100,0M333,-18l0,-33l-32,0l-70,-47l102,0l0,-33l-166,0l0,33l70,47l-70,0l0,33z"/>
+<glyph unicode="A" horiz-adv-x="629" d="M604.14,11.53l-266.77,680.53C335.33,697.18 331.45,700.01 325.86,700.01l-23.05,0C297.22,700.01 293.34,697.18 291.3,692.06l-266.77,-680.53C21.94,4.54002 24.99,3.05176e-005 32.49,3.05176e-005l17.71,0C55.78,3.05176e-005 59.66,2.83003 61.7,7.95003l68.79,176.72l367.7,0l68.79,-176.72C569.02,2.83003 572.9,3.05176e-005 578.49,3.05176e-005l17.71,0C603.7,3.05176e-005 606.74,4.54002 604.15,11.54M143.73,218.68l170.62,438.33l170.62,-438.33z"/>
+<glyph unicode="G" horiz-adv-x="810" d="M725.33,337l-290,0C428.83,337 425.33,333.5 425.33,327l0,-14C425.33,306.5 428.83,303 435.33,303l263.33,0l0,-59.67C685.99,98.33 556.99,24 420.66,24C221.99,24 89.99,169.67 89.99,350C89.99,530.33 224.66,676 413.99,676C538.64,676 647.54,605.18 691.94,500.93C694.34,495.81 698.21,493.33 703.79,493.33l18.74,0C729.69,493.33 733.1,497.85 730.52,504.84C682.37,626.77 557.48,710.66 413.99,710.66C204.66,710.66 53.3301,549.33 53.3301,350C53.3301,150.67 202,-10.66 420.67,-10.66C536.43,-10.66 649.01,38.97 698.67,140.07l0,-130.07C698.67,3.5 702.17,0 708.67,0l16.67,0C731.84,0 735.34,3.5 735.34,10l0,293l0,24C735.34,333.5 731.84,337 725.34,337z"/>
+<glyph unicode="L" horiz-adv-x="497" d="M460,34l-330,0l0,656C130,696.33 126.33,700 120,700l-16.67,0C97,700 93.33,696.33 93.33,690l0,-680C93.33,3.67 97,0 103.33,0l9.33,0l347.33,0C466.32,0 469.99,3.67 469.99,10l0,14C469.99,30.33 466.32,34 459.99,34z"/>
+<glyph unicode="O" horiz-adv-x="828" d="M414,-10.67C614.67,-10.67 774.67,150.66 774.67,349.99C774.67,549.32 614.67,710.65 414,710.65C213.33,710.65 53.33,549.32 53.33,349.99C53.33,150.66 213.33,-10.67 414,-10.67M414,24C233.33,24 90,169.67 90,350C90,530.33 233.33,676 414,676C594.67,676 738,530.33 738,350C738,169.67 594.67,24 414,24z"/>
+<glyph unicode="S" horiz-adv-x="550" d="M287,-10.67C407,-10.67 503.33,59.33 503.33,169C503.33,294 393.33,329.67 289.33,370C193.33,406 102,435.67 102,536.34C102,613.01 166.67,676.01 272.34,676.01C370.34,676.01 440.01,615.68 445.01,537.01C445.34,531.01 449.01,527.34 455.01,527.34l17,0C478.34,527.34 482.01,531.01 481.68,537.68C476.35,641.35 382.02,710.68 272.35,710.68C155.35,710.68 65.35,639.01 65.35,536.34C65.35,407.67 178.35,375 283.68,335.67C377.35,300.67 466.68,269 466.68,169C466.68,85.33 395.68,24 287.01,24C163.68,24 89.01,83.33 83.68,174.33C83.35,180.66 79.68,184.33 73.68,184.33l-17,0C50.35,184.33 46.68,180.66 47.01,173.99C52.34,56.99 152.34,-10.68 287.01,-10.68z"/>
+</font>
+
+	<sodipodi:namedview  id="namedview43" pagecolor="#ffffff" guidetolerance="10" gridtolerance="10" showgrid="false" borderopacity="1" objecttolerance="10" inkscape:cy="-163.56938" inkscape:zoom="1" bordercolor="#666666" inkscape:cx="215.72458" inkscape:window-width="1366" inkscape:window-maximized="1" inkscape:window-x="-4" inkscape:current-layer="Layer_1" inkscape:pageopacity="0" inkscape:window-y="-4" inkscape:window-height="705" inkscape:pageshadow="2">
+	</sodipodi:namedview>
+<path id="path29" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:export-filename="C:\Users\anon\Desktop\logo4.0.png" inkscape:connector-curvature="0" style="fill:#FFFFFF;" d="
+	M269,264.8c0-16.5,5.7-31.2,17.2-44.2c4.2-4.8,7.6-7.1,9.9-7.1c0.8,0,1.7,0.2,2.3,0.8c0.6,0.6,1.1,1.2,1.1,2.1
+	c0,1.2-1.5,3.1-4.4,6.1c-11.9,11.5-18,25.8-18,42.8c0,18.8,6.3,34.1,18.7,45.9c2.5,2.3,3.8,4.2,3.8,5.7c0,0.8-0.4,1.7-1.1,2.3
+	c-0.6,0.6-1.5,1.1-2.3,1.1c-2.9,0-6.9-3.4-12.2-10C273.8,297.7,269,282.6,269,264.8z"/>
+<path id="path31" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:export-filename="C:\Users\anon\Desktop\logo4.0.png" inkscape:connector-curvature="0" style="fill:#FFFFFF;" d="
+	M427.6,269c0,16.5-5.7,31.2-17.2,44.2c-4.2,4.8-7.6,7.1-9.9,7.1c-0.8,0-1.7-0.2-2.3-0.8c-0.6-0.6-1.1-1.5-1.1-2.3
+	c0-1.2,1.5-3.1,4.4-5.9c11.9-11.5,18-25.8,18-42.8c0-18.8-6.3-34.1-18.7-45.9c-2.5-2.3-3.8-4.2-3.8-5.7c0-0.8,0.4-1.7,1.1-2.3
+	c0.6-0.6,1.5-1.1,2.3-1.1c2.7,0,6.9,3.4,12.2,10C422.5,236.3,427.6,251.4,427.6,269z"/>
+<g id="g33" transform="translate(-4.8945596e-8,2)" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:export-filename="C:\Users\anon\Desktop\logo4.0.png">
+	<line id="line35" style="fill:none;" x1="313.6" y1="303.9" x2="386.3" y2="303.9"/>
+	<path id="path37" inkscape:connector-curvature="0" style="fill:#F9F9F9;" d="M386.1,308.2h-72.7c-2.3,0-4.4-1.9-4.4-4.4
+		s1.9-4.4,4.4-4.4h72.7c2.3,0,4.4,1.9,4.4,4.4C390.5,306.4,388.6,308.2,386.1,308.2z"/>
+</g>
+<path id="path3081" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:export-filename="C:\Users\anon\Desktop\logo4.0.png" inkscape:connector-curvature="0" style="fill:#FFFFFF;" d="
+	M372.2,247.2c-1.2-3.9-3-7.7-5.9-10.6c-0.8-0.8-1.6-1.5-2.4-2.2c-0.6-0.6-2.2-1.5-2.5-2.3c1.7,3.9,3.3,8,2.1,12.3
+	c-0.6,1.9-2.7,6.6-5.5,5.4c-2.6-1.1-2.3-6.7-2.6-8.9c-0.5-5.5-1.8-11-4.7-15.7c-1.6-2.6-3.7-4.9-6.3-6.5c-3.5-2-7-3.4-11-1.9
+	c0.9-0.3,3.1,2.3,3.6,2.8c1.4,1.6,2.5,3.6,3.1,5.6c1.2,4.2,0.1,8.9-1.3,12.9c-3,8.3-8.1,15.7-10.5,24.1c-0.8,3-1.4,6-1.6,9.1
+	c-0.5,9.7,4.5,18.5,12.5,24c1.8,1.2,5,2.8,7.3,2c-6.7-3.6-8.9-6.5-9.9-10.7c-2.4-9.7,6.7-16,10.7-23.7c1.1-2,1.8-4.3,1.5-6.6
+	c-0.1-0.9-1.1-5.1-2.4-4.9c4-0.6,6.6,2,7.9,5.4c1.4,3.7,2.3,7.4,1.6,11.2c-0.2,1.3-1.2,5.3,0.7,5.6c2.6,0.4,4.8-3.1,4.3-6.4
+	c-0.3-1.5-0.5-3.9-0.5-3.9c2.7,3.4,4,6.8,4.4,10.4c0.7,6.6-2.1,15.3-7.4,20.7c2.2-2.3,5.1-3.8,7.2-6.3c2.2-2.5,3.9-5.3,5.2-8.4
+	c3-6.8,4.7-14.5,4.2-21.9C373.7,254.4,373.2,250.7,372.2,247.2L372.2,247.2z"/>
+<text transform="matrix(1 0 0 1 434.3047 297.3979)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'QanelasSoftDEMO-ExtraBold'; font-size:82;">FCC</tspan><tspan x="163.9" y="0" style="fill:#FFFFFF; font-family:'QanelasSoftDEMO-UltraLight'; font-size:82;">LAGOS</tspan></text>
+</svg>
